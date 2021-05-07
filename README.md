@@ -12,7 +12,7 @@
 
 ## [Shreya]'s Cloud Journey
 
-Hey there, I'm Shreya starting off with my journey in cloud and I want to 
+Hey there, I'm Shreya starting off with my journey in cloud.
 
 I'm starting my challenge as I'm new to cloud and I want to get familiar with the domain.
 
